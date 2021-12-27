@@ -1,0 +1,10 @@
+AWS - Amazon Web Services
+IAM - Identity and Access Management
+EC2 - Elastic Compute Cloud
+AMI - Amazon Machine Image
+EBS - Elastic Block Store
+EFS - Elastic File System
+S3  - Simple Storage Service
+VPC - Virtual Private Cloud
+ELB - Elastic Load Balancer
+RDS - Relational Database Service

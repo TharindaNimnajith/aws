@@ -6,5 +6,8 @@ EBS - Elastic Block Store
 EFS - Elastic File System
 S3  - Simple Storage Service
 VPC - Virtual Private Cloud
+VPN - Virtual Private Network
+NAT - Network Address Translation
+DNS - Domain Name System
 ELB - Elastic Load Balancer
 RDS - Relational Database Service

@@ -15,6 +15,7 @@ VPN   - Virtual Private Network
 NAT   - Network Address Translation
 DNS   - Domain Name System
 ELB   - Elastic Load Balancer
+ALB   - Application Load Balancer
 RDS   - Relational Database Service
 SQS   - Simple Queue Service
 SNS   - Simple Notification Service
